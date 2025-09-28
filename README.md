@@ -223,6 +223,3 @@ If you encounter issues:
 
 3. **Network errors**: Check your internet connection and try the manual refresh button.
 
-## License
-
-MIT License
